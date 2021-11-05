@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="145.851875">
-<testcase classname="To validate forget password feature in facebook page" name="To verify forget password functionality" time="27.668803">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="172.76426">
+<testcase classname="To validate forget password feature in facebook page" name="To verify forget password functionality" time="36.702732">
 <system-out><![CDATA[Given : The user should launch the chrome browser...........................passed
 When : The user should type the url.........................................passed
 And : The user should maximaze the window...................................passed
@@ -11,7 +11,7 @@ And : The user should be click button.......................................pass
 Then : The user should navigate to reset password page......................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and valid password" time="35.983424">
+<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and valid password" time="38.971872">
 <system-out><![CDATA[Given : The user should launch the chrome browser...........................passed
 When : The user should type the url.........................................passed
 And : The user should maximaze the window...................................passed
@@ -20,7 +20,7 @@ And : The user should click the login button................................pass
 Then : The user should naviage to incorrect credential page.................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password" time="12.253592">
+<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password" time="17.675108">
 <system-out><![CDATA[Given : The user should launch the chrome browser...........................passed
 When : The user should type the url.........................................passed
 And : The user should maximaze the window...................................passed
@@ -29,7 +29,7 @@ And : The user should click the login button................................pass
 Then : The user should naviage to incorrect credential page.................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password 2" time="36.112523">
+<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password 2" time="43.243517">
 <system-out><![CDATA[Given : The user should launch the chrome browser...........................passed
 When : The user should type the url.........................................passed
 And : The user should maximaze the window...................................passed
@@ -38,7 +38,7 @@ And : The user should click the login button................................pass
 Then : The user should naviage to incorrect credential page.................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password 3" time="33.833533">
+<testcase classname="To validate login functionlity of facebook" name="Validate with invalid username and invalid password 3" time="36.171031">
 <system-out><![CDATA[Given : The user should launch the chrome browser...........................passed
 When : The user should type the url.........................................passed
 And : The user should maximaze the window...................................passed
