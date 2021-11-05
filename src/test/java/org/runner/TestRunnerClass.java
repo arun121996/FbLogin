@@ -18,7 +18,7 @@ public class TestRunnerClass {
 	
 	@AfterClass
 	public static void report() {
-		JvmReport.generatejvmreport("C:\\Users\\ARUNKUMAR\\eclipse-workspace\\SampleCucumber\\target\\report\\fblogin.json");
+		JvmReport.generatejvmreport(System.getProperty("user.dir")+"\\target\\report\\fblogin.json");
 
 	}
 	
